@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anientera.github.io/sitemap.html.gz
+Sitemap: https://anientera.github.io/app/sitemap.html.gz
+Sitemap: https://anientera.github.io/assets/sitemap.html.gz
+Sitemap: https://anientera.github.io/css/sitemap.html.gz
+Sitemap: https://anientera.github.io/includes/sitemap.html.gz
+Sitemap: https://anientera.github.io/item/sitemap.html.gz
+Sitemap: https://anientera.github.io/src/sitemap.html.gz
